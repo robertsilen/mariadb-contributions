@@ -1,4 +1,4 @@
-This repo explores how to give an overview of community contributions to MariaDB. 
+This repo explores how to give an overview of community contributions to MariaDB. Idea is to daily fetch data from Github and Jira and show lists and charts. 
 
 ## Github
 
@@ -10,10 +10,10 @@ Questions
 * What is the trend of new external PRs?
   * What is the trend of unique external contributors?
 
-For answers:
-* List PRs created since beginning of last month in order of label and creation date also showing title and the creator's username and time to first response
-* Plot amount of PRs with label 'External Contribution' created per month
-* Plot amount of unique contributor usernames rolling 12 months per month
+Answer: create charts and tables that
+* list PRs created since beginning of last month in order of label and creation date also showing title and the creator's username and time to first response
+* plot amount of PRs with label 'External Contribution' created per month
+* plot amount of unique contributor usernames rolling 12 months per month
  
 ## Jira
 
@@ -24,7 +24,7 @@ Questions
   * What is the trend of unique external item creators?
 * What are the most voted Jira items?
 
-For answers: 
-* List items created since beginning of last month in order of type and creation date also showing title and the creator's username and time to first response 
-* Plot amount of items created per month
-* Plot amount of unique item unique creator usernames rolling 12 months per month
+Answer: create charts and tables that
+* list items created since beginning of last month in order of type and creation date also showing title and the creator's username and time to first response 
+* plot amount of items created per month
+* plot amount of unique item unique creator usernames rolling 12 months per month
